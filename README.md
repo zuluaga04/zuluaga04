@@ -4,7 +4,7 @@ Somos estudiantes de Santa Elena pertenecientes a la media tecnica de Desarrollo
 
 ![image](https://user-images.githubusercontent.com/100798741/166822703-5adea1d7-72ef-4597-9e6e-b6c058cc33a4.png)
 
-### Hi there 👋
+
 
 <!--
 **zuluaga04/zuluaga04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
